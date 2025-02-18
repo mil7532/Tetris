@@ -1,0 +1,10 @@
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Tetris v1.0.csproj.AssemblyReference.cache
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Tetris.resources
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Tetris v1.0.csproj.GenerateResource.cache
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Tetris v1.0.csproj.CoreCompileInputs.cache
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\lim23\OneDrive\Pulpit\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
